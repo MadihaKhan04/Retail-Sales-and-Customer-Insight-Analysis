@@ -1,14 +1,14 @@
 # Retail-Sales-and-Customer-Insight-Analysis
 Welcome to the Retail Sales and Customer Insights Analysis project! This project uses SQL to analyze retail data, focusing on sales, customer behavior, and inventory. It looks at a fictional retail company’s data to find useful insights for better business decisions.
 
-📋 **Project Overview:**
+**Project Overview:**
 This project uses SQL to analyze sales, customer, and product data, identifying trends and patterns. It applies advanced SQL techniques like window functions, CTEs, joins, and aggregations to deliver detailed insights. The main areas of focus are:
 - Sales Patterns
 - Customer Groups
 - Product Performance
 - Inventory Management
 
-📊 **Dataset Description:**
+**Dataset Description:**
 The dataset consists of four interrelated tables:
 
 **1. Customers Table**
@@ -34,7 +34,7 @@ Tracks inventory changes.
 - movement_type (IN for restock, OUT for sales), quantity_moved, movement_date
 
 
-🎯 **Key Objectives & Questions:**
+**Key Objectives & Questions:**
 
 **Module 1: Sales Performance Analysis**
 - Calculate total sales per month (units and revenue).
@@ -65,6 +65,6 @@ This project employs advanced SQL concepts to handle complex queries efficiently
 - Case Statements
 
 
-📜 **Deliverables**  
+**Deliverables**  
 - **SQL Queries:** Organized SQL scripts for each module.  
 - **Analysis Report:** Detailed report summarizing key insights.  
